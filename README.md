@@ -1,6 +1,6 @@
 # Recommendation Systems Workshop 
 ![Recommendation Systems](https://www.seobility.net/en/wiki/images/5/54/Social-Sharing.png)
-Figure:  Social Sharing - Author: Seobility - Lincense: CC BY-SA 4.0 
+Figure:  Social Sharing - Author: Seobility - License: CC BY-SA 4.0 
 
 # Objectives 
 - Learn how Recommendation Systems are Used for Businesses 
